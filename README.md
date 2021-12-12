@@ -48,9 +48,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
-[Github Pages](https://tomcam.github.io/least-github-pages/)
-
-
+[a link] (https://github.com/user/repo/blob/branch/other_file.md)
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
